@@ -1,0 +1,69 @@
+body{
+background-color: gray;
+}
+.goog{
+text-align: center;
+margin-top: 50px;
+
+}
+#G{
+color: blue;
+font-size: 45px;
+}
+#O{
+color: red;
+font-size: 35px;
+}
+#o{
+color: orange;
+font-size: 35px;
+}
+#g{
+color: blue;
+font-size: 35px;
+}
+#l{
+color: green;
+font-size: 35px;
+}
+#e{
+color: red;
+font-size: 35px
+}
+sub{
+color: blue;
+position: relative;
+right: 38px;
+top: 5px;
+font-size: 10px;
+}
+.search{
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+border: 1px solidblack;
+padding: 10px;
+}
+#line{
+margin: 20px;
+}
+#all{
+margin-right: 40px;
+color: whitesmoke;
+}
+#im{
+margin-right: 250px;
+color: whitesmoke;
+}
+#img{
+margin-left: 35px;
+border-radius: 50px;
+width: 35px;
+}
+#topbar{
+margin-top: 1px;
+}
